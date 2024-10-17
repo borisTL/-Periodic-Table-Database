@@ -41,15 +41,9 @@ This project is a PostgreSQL database implementation of the periodic table, incl
    ```bash
    git clone <repository-url>
    cd periodic_table
-##Connect to the PostgreSQL database:
-
--bash
-
+## Connect to the PostgreSQL database:
 psql --username=freecodecamp --dbname=periodic_table
 
-###Running the Script
+### Running the Script
 To see all available commands and how to use the script, run:
-
--bash
-
 ./element.sh
